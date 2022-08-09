@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dev.jimmytai.klint.downloader.klint_massive_file_downloader">
+    package="dev.jimmytai.klint.downloader">
    <application
-        android:label="klint_massive_file_downloader"
+        android:label="Klint"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
