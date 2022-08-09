@@ -13,16 +13,30 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   
+  fimber: ^0.6.6
+  rxdart: ^0.27.5
+  auto_route: ^4.2.1
   json_annotation: ^4.6.0
-  flutter_foreground_task: ^3.8.1
   dio: ^4.0.6
+  path_provider: ^2.0.11
+  uuid: ^3.0.6
+
+  # state management
+  hooks_riverpod: ^1.0.4
+  flutter_hooks: ^0.18.5+1
+
+  flutter_foreground_task: ^3.8.1
+  bot_toast: ^4.0.3
+  flutter_picker: ^2.0.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
   
+  auto_route_generator: ^4.2.1
   json_serializable: ^6.3.1
+  build_runner:
 
 flutter:
 
